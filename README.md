@@ -8,16 +8,16 @@ Nice to meet you! I am a junior software developer. I'm currently enrolled in un
 ![Git](https://img.shields.io/badge/Git-dd7b1c?style=for-the-badge&logo=java&logoColor=white)
 
 #### Back End
-![Java](https://img.shields.io/badge/Java-c05612?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/Javascript-e0e211?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-2a6df1?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/Javascript-2a6df1?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-2a6df1?style=for-the-badge&logo=java&logoColor=white)
 
 #### Front end
-![HTML](https://img.shields.io/badge/HTML-c04c2f?style=for-the-badge&logo=java&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-15a4d6?style=for-the-badge&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-2a6df1?style=for-the-badge&logo=java&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-2a6df1?style=for-the-badge&logo=java&logoColor=white)
 
 #### DataBase
-![MySQL](https://img.shields.io/badge/MySQL-3070ca?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-2a6df1?style=for-the-badge&logo=java&logoColor=white)
 
 #### Cloud
-![AWS](https://img.shields.io/badge/AWS-3070ca?style=for-the-badge&logo=java&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-2a6df1?style=for-the-badge&logo=java&logoColor=white)
