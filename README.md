@@ -5,7 +5,7 @@ Nice to meet you! I am a junior software developer. I'm currently enrolled in un
 
 ### Tech Stack
 #### Versioning
-![Git](https://img.shields.io/badge/Git-dd7b1c?style=for-the-badge&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/Git-2a6df1?style=for-the-badge&logo=java&logoColor=white)
 
 #### Back End
 ![Java](https://img.shields.io/badge/Java-2a6df1?style=for-the-badge&logo=java&logoColor=white)
